@@ -8,3 +8,4 @@ typing_extensions==4.12.2
 psycopg2==2.9.10
 celery[redis]==5.2.7
 flower==2.0.1
+celery_singleton==0.3.1
